@@ -1,5 +1,5 @@
 /* Bubble.java example for CS 111B
-   Adapted by Craig Persiko from a program by Steve Vaschon
+   Adapted by Craig Persiko from a program by Steve Vaschon (a former student)
 
    Shows the difference between static
    variables and instance variables.  Below is a static
